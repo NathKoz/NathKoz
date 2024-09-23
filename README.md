@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathKoz
 - 👀 I’m interested in Programming, Backpacking, Reading, and Video Games
-- 🌱 I’m currently learning stuff around Information Systems
-- 💞️ I’m looking to collaborate on really anything
+-  I’m currently learning stuff around Information Systems
+-  I’m looking to collaborate on really anything
 - 📫 How to reach me nathkoz05@gmail.com
