@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NathKoz
+- 👋 Hi, I’m Link
 - 👀 I’m interested in Programming, Backpacking, Reading, and Video Games
 -  I’m currently learning stuff around Information Systems
 -  I’m looking to collaborate on really anything
